@@ -30,7 +30,7 @@ uv run server.py
 ## 帰属表示 (Attribution)
 
 ウェブデータ抽出エンジンとして Crawl4AI を使用しています。
-本プロジェクトではウェブデータ抽出にCrawl4AIを使用しています（https://github.com/unclecode/crawl4ai）。
+本プロジェクトではウェブデータ抽出にCrawl4AIを使用しています（[https://github.com/unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)）。
 
 <a href="https://github.com/unclecode/crawl4ai">
   <img src="https://img.shields.io/badge/Powered%20by-Crawl4AI-blue?style=flat-square" alt="Powered by Crawl4AI"/>
